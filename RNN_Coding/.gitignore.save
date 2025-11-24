@@ -1,0 +1,15 @@
+# macOS & Python artifacts
+.DS_Store
+__pycache__/
+*.pyc
+
+# Checkpoints / models
+*.pth
+checkpoints/
+
+# Data folders
+DATA/
+
+# Local testing folders
+test/
+
